@@ -1,0 +1,12 @@
+mOVE ALL THE FILES TO xampp/htdocs
+
+
+open browser and go to localhost/phpmyadmin
+create a database named 'pli'
+now select the created database pli and go to the import tab
+browse the file called'pli.sql' available in the given filesand import it
+
+
+now go to localhost/Webs
+
+All good to go!!
